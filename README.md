@@ -1,5 +1,5 @@
 # 💫 About Me: 
-🔭 I’m currently in my last year doing a bachelors of computer science<br>🌱 I’m currently learning AWS and Networking
+🔭 I graduated from a Bachelor of Computer Science<br>🌱 I’m currently learning AWS and Networking
 
 
 # 💻 Tech Stack:
